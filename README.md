@@ -1,2 +1,21 @@
-# elevate-property-solutions
-Elevate Property Solutions helps Houston homeowners find simple solutions for selling unwanted properties, inherited homes, and houses needing repairs. We connect homeowners with trusted local buyers for fast, hassle-free options.
+# Elevate Property Solutions
+
+Houston real estate solutions website.
+
+## Purpose
+
+A lead generation website designed to connect Houston homeowners with property buyers and investors.
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+## Future Improvements
+
+- Connect contact form
+- Add CRM integration
+- Add Houston SEO pages
+- Add investor portal
